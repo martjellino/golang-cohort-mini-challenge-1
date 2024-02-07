@@ -21,7 +21,7 @@
 ## Example
 For `n = 10`, the expected output would be:
 ```
-1
+SquareCube
 2
 3
 Square
@@ -29,6 +29,6 @@ Square
 6
 7
 Cube
-9
+Square
 10
 ```
